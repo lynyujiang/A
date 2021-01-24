@@ -1,0 +1,9 @@
+[submodule "B"]
+	path = B
+	url = https://github.com/lynyujiang/B.git
+[submodule "workspace/C"]
+	path = workspace/C
+	url = https://github.com/lynyujiang/C.git
+[submodule "workspace/D"]
+	path = workspace/D
+	url = https://github.com/lynyujiang/D.git
